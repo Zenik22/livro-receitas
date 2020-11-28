@@ -6,6 +6,4 @@ Olá ! Bem vindo ao meu livro de receitas :wave:
 - Pavê
 - Bolo de cenoura
 - Lasanha
-
-
-
+- Bolo de laranja
